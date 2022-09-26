@@ -1,6 +1,6 @@
-const a = 15
-const b = 33
-const c = 45
+const a = 15;
+const b = 33;
+const c = 45;
 
 if (a > b && a > c){
     console.log ("O maior número é: " + (a))
